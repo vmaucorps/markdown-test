@@ -544,7 +544,7 @@ Lorem ipsum
 
 `<var>var</var>` : <var>var</var>
 
-`<a>a</a>` : <a>a</a>
+`<a>a</a>` : <a href="#">a</a>
 
 #### Lists
 
@@ -566,7 +566,7 @@ Lorem ipsum
 
 #### Ruby
 
-`<ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>` : <ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>
+`<ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>` : <ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>
 
 
 [ref1]: http://daringfireball.net/projects/markdown/

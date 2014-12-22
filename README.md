@@ -15,9 +15,12 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
-## BLOCK ELEMENTS
+[DARING FIREBALL][http://daringfireball.net/projects/markdown/]
+---------------------------------------------------------------
 
-### BLOCKQUOTES
+### BLOCK ELEMENTS
+
+#### BLOCKQUOTES
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
@@ -54,7 +57,7 @@ Lorem ipsum
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
-### LISTS
+#### LISTS
 
 *   Red
 *   Green
@@ -157,7 +160,7 @@ Lorem ipsum
 
 1986\. What a great season.
 
-### CODE BLOCKS
+#### CODE BLOCKS
 
 This is a normal paragraph:
 
@@ -175,7 +178,7 @@ Lorem ipsum
         &copy; 2004 Foo Corporation
     </div>
 
-### HORIZONTAL RULES
+#### HORIZONTAL RULES
 
 * * *
 
@@ -187,10 +190,9 @@ Lorem ipsum
 
 ---------------------------------------
 
-SPAN ELEMENTS
--------------
+### SPAN ELEMENTS ###
 
-### LINKS ###
+#### LINKS ####
 
 This is [an example](http://example.com/ "Title") inline link.
 
@@ -239,7 +241,7 @@ I get 10 times more traffic from [Google](http://google.com/ "Google")
 than from [Yahoo](http://search.yahoo.com/ "Yahoo Search") or
 [MSN](http://search.msn.com/ "MSN Search").
 
-### EMPHASIS ####################
+#### EMPHASIS ####################
 
 *single asterisks*
 
@@ -253,7 +255,7 @@ un*frigging*believable
 
 \*this text is surrounded by literal asterisks\*
 
-### CODE
+#### CODE
 
 Use the `printf()` function.
 
@@ -267,7 +269,7 @@ Please don't use any `<blink>` tags.
 
 `&#8212;` is the decimal-encoded equivalent of `&mdash;`.
 
-### IMAGES
+#### IMAGES
 
 ![Alt text](https://assets-cdn.github.com/favicon.ico)
 
@@ -277,9 +279,80 @@ Please don't use any `<blink>` tags.
 
 [img]: https://assets-cdn.github.com/favicon.ico  "Optional title attribute"
 
-### MISCELLANEOUS
+#### MISCELLANEOUS
 
 <http://example.com/>
 
 <address@example.com>
 
+## [GITHUB : Markdown Basics][https://help.github.com/articles/markdown-basics/]
+
+### Basic writing
+
+#### Paragraphs
+
+On July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
+
+On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated in an assault on a destroyer near the city of Los Angeles.
+
+#### Blockquotes
+
+In the words of Abraham Lincoln:
+
+> Pardon my french
+
+#### Styling text
+
+*This text will be italic*
+**This text will be bold**
+
+**Everyone _must_ attend the meeting at 5 o'clock today.**
+
+### Lists
+
+#### Unordered lists
+
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
+
+#### Ordered lists
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+#### Nested lists
+
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
+2. Item 2
+  * A corollary that does not need to be ordered.
+    * This is indented four spaces, because it's two spaces further than the item above.
+    * You might want to consider making a new list.
+3. Item 3
+
+### Code formatting
+
+#### Inline formats
+
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+
+#### Multiple lines
+
+Check out this neat program I wrote:
+
+```
+x = 0
+x = 2 + 2
+what is x
+```
+
+### Links
+
+[Visit GitHub!](www.github.com)

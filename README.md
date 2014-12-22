@@ -582,6 +582,12 @@ Lorem ipsum
 * [Sanitize](#user-content-sanitize)
 * [Miscellaneous](#user-content-miscellaneous)
 
+### Paragraph + List
+
+This is a paragraph immediately followed by a list :
+* item 1
+* item 2
+
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/
 [ref3]: https://help.github.com/articles/github-flavored-markdown/

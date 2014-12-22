@@ -420,9 +420,9 @@ Content Cell  | Content Cell
 
 ## [Writing on GitHub][ref4]
 
-### Markup
+### Markup => Available for comments
 
-#### Newlines => KO
+#### Newlines
 
 Roses are red
 Violets are blue

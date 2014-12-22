@@ -428,6 +428,7 @@ Content Cell  | Content Cell
 ### Nature
 
 :sunny:
+...
 
 ### Objects
 
@@ -444,7 +445,7 @@ Content Cell  | Content Cell
 :one:
 ...
 
-#### Sounds
+#### Sounds => Not working
 
 /play secret
 ...

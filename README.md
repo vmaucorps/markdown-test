@@ -15,8 +15,8 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
-[DARING FIREBALL][http://daringfireball.net/projects/markdown/]
----------------------------------------------------------------
+[DARING FIREBALL][ref1]
+-----------------------
 
 ### BLOCK ELEMENTS
 
@@ -285,7 +285,7 @@ Please don't use any `<blink>` tags.
 
 <address@example.com>
 
-## [GITHUB : Markdown Basics][https://help.github.com/articles/markdown-basics/]
+## GITHUB : Markdown Basics (https://help.github.com/articles/markdown-basics/)
 
 ### Basic writing
 
@@ -356,3 +356,7 @@ what is x
 ### Links
 
 [Visit GitHub!](www.github.com)
+
+
+
+[ref1]: http://daringfireball.net/projects/markdown/

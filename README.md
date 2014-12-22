@@ -422,7 +422,7 @@ Content Cell  | Content Cell
 
 ### Markup
 
-#### Newlines
+#### Newlines => KO
 
 Roses are red
 Violets are blue
@@ -437,20 +437,20 @@ Violets are blue
 Lorem ipsum
 
 - [ ] a bigger project
-  - [ ] first subtask #1234
-  - [ ] follow up subtask #4321
-  - [ ] final subtask cc @mention
+  - [ ] first subtask #1
+  - [ ] follow up subtask #1
+  - [ ] final subtask cc @tonai
 - [ ] a separate task
 
 #### References
 
-* SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* User@SHA: jlord@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* User/Repository@SHA: jlord/sheetsee.js@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* #Num: #26
-* GH-Num: GH-26
-* User#Num: jlord#26
-* User/Repository#Num: jlord/sheetsee.js#26
+* SHA: 6d823ad22aac09f3b370eb2b93a7551a9a293bee
+* User@SHA: tonai@6d823ad22aac09f3b370eb2b93a7551a9a293bee
+* User/Repository@SHA: tonai/markdown-test@6d823ad22aac09f3b370eb2b93a7551a9a293bee
+* #Num: #1
+* GH-Num: GH-1
+* User#Num: tonai#1
+* User/Repository#Num: tonai/markdown-test#1
 
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/

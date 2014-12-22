@@ -418,6 +418,37 @@ Content Cell  | Content Cell
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+## [Emoji][ref6]
+
+### People
+
+:bowtie:
+...
+
+### Nature
+
+:sunny:
+
+### Objects
+
+:bamboo:
+...
+
+### Places
+
+:house:
+...
+
+### Symbols
+
+:one:
+...
+
+#### Sounds
+
+/play secret
+...
+
 ## [Writing on GitHub][ref4]
 
 ### Markup => [Only évailable for comments][ref5]
@@ -451,10 +482,6 @@ Lorem ipsum
 * GH-Num: GH-1
 * User#Num: tonai#1
 * User/Repository#Num: tonai/markdown-test#1
-
-## [Emoji][ref6]
-
-:bowtie:
 
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/

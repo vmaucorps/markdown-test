@@ -484,6 +484,21 @@ Lorem ipsum
 * User#Num: tonai#1
 * User/Repository#Num: tonai/markdown-test#1
 
+## Sanitize
+
+### Available HTML tags
+
+#### Headings
+
+* `h1` : <h1>h1</h1>
+* `h2` : <h2>h2</h2>
+* `h3` : <h3>h3</h3>
+* `h4` : <h4>h4</h4>
+* `h5` : <h5>h5</h5>
+* `h6` : <h6>h6</h6>
+* `h7` : <h7>h7</h7>
+* `h8` : <h8>h8</h8>
+
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/
 [ref3]: https://help.github.com/articles/github-flavored-markdown/

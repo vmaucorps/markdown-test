@@ -1,7 +1,7 @@
 Title:  A Readme Document
 
-mardown-test
-============
+markdown-test
+=============
 
 Markdown syntax test project
 
@@ -15,7 +15,9 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
-## Blockquotes
+## BLOCK ELEMENTS
+
+### BLOCKQUOTES
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
@@ -52,8 +54,7 @@ Lorem ipsum
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
-LISTS
------
+### LISTS
 
 *   Red
 *   Green
@@ -156,3 +157,35 @@ Lorem ipsum
 
 1986\. What a great season.
 
+### CODE BLOCKS
+
+This is a normal paragraph:
+
+    This is a code block.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+
+Lorem ipsum
+
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
+
+### HORIZONTAL RULES
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+SPAN ELEMENTS
+-------------

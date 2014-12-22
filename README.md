@@ -271,7 +271,7 @@ Please don't use any `<blink>` tags.
 
 ![Alt text](https://assets-cdn.github.com/favicon.ico)
 
-![Alt text](https://assets-cdn.github.com/favicon.ico "Optional title")
+![Alt text](/assets/github.ico "Optional title")
 
 ![Alt text][img]
 

@@ -285,7 +285,7 @@ Please don't use any `<blink>` tags.
 
 <address@example.com>
 
-## GITHUB : Markdown Basics (https://help.github.com/articles/markdown-basics/)
+## [GITHUB : Markdown Basics][ref2]
 
 ### Basic writing
 
@@ -357,6 +357,59 @@ what is x
 
 [Visit GitHub!](www.github.com)
 
+## [GitHub Flavored Markdown][ref3]
+
+### Differences from traditional Markdown
+
+#### Multiple underscores in words
+
+wow_great_stuff
+
+do_this_and_do_that_and_another_thing.
+
+wow*great*stuff
+
+#### URL autolinking
+
+http://example.com
+
+#### Strikethrough
+
+~~Mistaken text.~~
+
+#### Fenced code blocks
+
+Here's an example:
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+#### Syntax highlighting
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+Tables
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 [ref1]: http://daringfireball.net/projects/markdown/
+[ref2]: https://help.github.com/articles/markdown-basics/
+[ref3]: https://help.github.com/articles/github-flavored-markdown/
+
+

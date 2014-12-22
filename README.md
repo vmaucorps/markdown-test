@@ -452,7 +452,7 @@ Content Cell  | Content Cell
 
 ## [Writing on GitHub][ref4]
 
-### Markup => [Only évailable for comments][ref5]
+### Markup => [Only available for comments][ref5]
 
 #### Newlines
 

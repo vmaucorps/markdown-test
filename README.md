@@ -577,11 +577,11 @@ Lorem ipsum
 ### Relative links (TOC)
 
 * [DARING FIREBALL](#daring-fireball)
-* [GitHub Markdown Basics](#github--markdown-basics)
+* [GitHub Markdown Basics](#github-markdown-basics)
 * [GitHub Flavored Markdown](#github-flavored-markdown)
 * [Emoji](#emoji)
 * [Writing on GitHub](#writing-on-github)
-* [Sanitize](#anitize)
+* [Sanitize](#sanitize)
 * [Miscellaneous](#miscellaneous)
 
 ### Paragraph + List

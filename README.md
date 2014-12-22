@@ -576,13 +576,13 @@ Lorem ipsum
 
 ### Relative links (TOC)
 
-* [DARING FIREBALL](#user-content-daring-fireball)
-* [GitHub Markdown Basics](#user-content-github--markdown-basics)
-* [GitHub Flavored Markdown](#user-content-github-flavored-markdown)
-* [Emoji](#user-content-emoji)
-* [Writing on GitHub](#user-content-writing-on-github)
-* [Sanitize](#user-content-sanitize)
-* [Miscellaneous](#user-content-miscellaneous)
+* [DARING FIREBALL](#daring-fireball)
+* [GitHub Markdown Basics](#github--markdown-basics)
+* [GitHub Flavored Markdown](#github-flavored-markdown)
+* [Emoji](#emoji)
+* [Writing on GitHub](#writing-on-github)
+* [Sanitize](#anitize)
+* [Miscellaneous](#miscellaneous)
 
 ### Paragraph + List
 
@@ -590,7 +590,7 @@ This is a paragraph immediately followed by a list :
 * item 1
 * item 2
 
-[ref1]: http://daringfireball.net/projects/markdown/
+[ref1]: http://daringfireball.net/projects/markdown/syntax/
 [ref2]: https://help.github.com/articles/markdown-basics/
 [ref3]: https://help.github.com/articles/github-flavored-markdown/
 [ref4]: https://help.github.com/articles/writing-on-github/

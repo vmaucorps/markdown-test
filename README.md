@@ -266,3 +266,20 @@ A backtick-delimited string in a code span: `` `foo` ``
 Please don't use any `<blink>` tags.
 
 `&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+
+### IMAGES
+
+![Alt text](https://assets-cdn.github.com/favicon.ico)
+
+![Alt text](https://assets-cdn.github.com/favicon.ico "Optional title")
+
+![Alt text][img]
+
+[img]: https://assets-cdn.github.com/favicon.ico  "Optional title attribute"
+
+### MISCELLANEOUS
+
+<http://example.com/>
+
+<address@example.com>
+

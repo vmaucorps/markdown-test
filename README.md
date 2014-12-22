@@ -544,7 +544,9 @@ Lorem ipsum
 
 `<var>var</var>` : <var>var</var>
 
-`<a>a</a>` : <a href="#">a</a>
+`<a href="#">a</a>` : <a href="#">a</a>
+
+`<img src="/assets/github.ico"/>` : <img src="/assets/github.ico"/>
 
 #### Lists
 

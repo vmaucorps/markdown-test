@@ -544,6 +544,8 @@ Lorem ipsum
 
 `<var>var</var>` : <var>var</var>
 
+`<a>a</a>` : <a>a</a>
+
 #### Lists
 
 `<ol><li>ol li</li></ol>` : <ol><li>ol li</li></ol>
@@ -564,7 +566,8 @@ Lorem ipsum
 
 #### Ruby
 
-`<ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>` : <ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>
+`<ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>` : <ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>
+
 
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/

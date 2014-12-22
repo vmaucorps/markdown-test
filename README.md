@@ -238,3 +238,18 @@ I get 10 times more traffic from [Google][] than from
 I get 10 times more traffic from [Google](http://google.com/ "Google")
 than from [Yahoo](http://search.yahoo.com/ "Yahoo Search") or
 [MSN](http://search.msn.com/ "MSN Search").
+
+### EMPHASIS ####################
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+un*frigging*believable
+
+\*this text is surrounded by literal asterisks\*
+

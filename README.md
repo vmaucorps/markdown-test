@@ -203,3 +203,17 @@ This is [an example][id] reference-style link.
 This is [an example] [id] reference-style link.
 
 [id]: http://example.com/  "Optional Title Here"
+
+1. reference-style link [link1][link1].
+2. reference-style link [link2][link2].
+3. reference-style link [link3][link3].
+4. reference-style link [link4][link4].
+5. reference-style link [link5][link5].
+
+[link1]: http://example.com/1  "Optional Title Here"
+[link2]: http://example.com/2  'Optional Title Here'
+[link3]: http://example.com/3  (Optional Title Here)
+[link4]: <http://example.com/4>  "Optional Title Here"
+[link5]: http://example.com/5
+    "Optional Title Here"
+

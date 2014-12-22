@@ -491,13 +491,58 @@ Lorem ipsum
 #### Headings
 
 `<h1>h1</h1>` : <h1>h1</h1>
+
 `<h2>h2</h2>` : <h2>h2</h2>
+
 `<h3>h3</h3>` : <h3>h3</h3>
+
 `<h4>h4</h4>` : <h4>h4</h4>
+
 `<h5>h5</h5>` : <h5>h5</h5>
+
 `<h6>h6</h6>` : <h6>h6</h6>
+
 `<h7>h7</h7>` : <h7>h7</h7>
+
 `<h8>h8</h8>` : <h8>h8</h8>
+
+#### Prose
+
+`<p>p</p>` : <p>p</p>
+
+`<div>div</div>` : <div>div</div>
+
+`<blockquote>blockquote</blockquote>` : <blockquote>blockquote</blockquote>
+
+#### Inline
+
+`<b>b</b>` : <b>b</b>
+
+`<i>i</i>` : <i>i</i>
+
+`<strong>strong</strong>` : <strong>strong</strong>
+
+`<em>em</em>` : <em>em</em>
+
+`<tt>tt</tt>` : <tt>tt</tt>
+
+`<code>code</code>` : <code>code</code>
+
+`<ins>ins</ins>` : <ins>ins</ins>
+
+`<del>del</del>` : <del>del</del>
+
+`<sup>sup</sup>` : <sup>sup</sup>
+
+`<sub>sub</sub>` : <sub>sub</sub>
+
+`<kbd>kbd</kbd>` : <kbd>kbd</kbd>
+
+`<samp>samp</samp>` : <samp>samp</samp>
+
+`<q>q</q>` : <q>q</q>
+
+`<var>var</var>` : <var>var</var>
 
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/

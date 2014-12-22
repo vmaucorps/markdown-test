@@ -420,7 +420,7 @@ Content Cell  | Content Cell
 
 ## [Writing on GitHub][ref4]
 
-### Markup => Available for comments
+### Markup => [Only évailable for comments][ref5]
 
 #### Newlines
 
@@ -452,7 +452,13 @@ Lorem ipsum
 * User#Num: tonai#1
 * User/Repository#Num: tonai/markdown-test#1
 
+## [Emoji][ref6]
+
+:bowtie:
+
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/
 [ref3]: https://help.github.com/articles/github-flavored-markdown/
 [ref4]: https://help.github.com/articles/writing-on-github/
+[ref5]: https://github.com/tonai/markdown-test/issues/1
+[ref6]: http://www.emoji-cheat-sheet.com/

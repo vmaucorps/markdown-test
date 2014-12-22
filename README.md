@@ -285,7 +285,7 @@ Please don't use any `<blink>` tags.
 
 <address@example.com>
 
-## [GITHUB : Markdown Basics][ref2]
+## [GitHub Markdown Basics][ref2]
 
 ### Basic writing
 
@@ -570,6 +570,17 @@ Lorem ipsum
 
 `<ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>` : <ruby>ruby<rt>rt</rt><rp>rp</rp></ruby>
 
+## Miscellaneous
+
+### Relative links (TOC)
+
+* [DARING FIREBALL](#user-content-daring-fireball)
+* [GitHub Markdown Basics](#user-content-github--markdown-basics)
+* [GitHub Flavored Markdown](#user-content-github-flavored-markdown)
+* [Emoji](#user-content-emoji)
+* [Writing on GitHub](#user-content-writing-on-github)
+* [Sanitize](#user-content-sanitize)
+* [Miscellaneous](#user-content-miscellaneous)
 
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/

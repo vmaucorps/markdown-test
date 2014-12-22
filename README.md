@@ -544,6 +544,28 @@ Lorem ipsum
 
 `<var>var</var>` : <var>var</var>
 
+#### Lists
+
+`<ol><li>ol li</li></ol>` : <ol><li>ol li</li></ol>
+
+`<ul><li>ul li</li></ul>` : <ul><li>ul li</li></ul>
+
+`<dl><dt>dl dt</dt><dd>dl dd</dd></dl>` : <dl><dt>dl dt</dt><dd>dl dd</dd></dl>
+
+#### Tables 
+
+`<table><thead><tr><th>table thead tr th</th></tr></thead><tbody><tr><td>table tbody tr td</td></tr></tbody><tfoot><tr><td>table tfoot tr td</td></tr></tfoot></table>` : <table><thead><tr><th>table thead tr th</th></tr></thead><tbody><tr><td>table tbody tr td</td></tr></tbody><tfoot><tr><td>table tfoot tr td</td></tr></tfoot></table>
+
+#### Breaks
+
+`<br/>` : <br/>
+
+`<hr/>` : <hr/>
+
+#### Ruby
+
+`<ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>` : <ruby><rt>ruby rt</rt><rp>ruby rp</rp></ruby>
+
 [ref1]: http://daringfireball.net/projects/markdown/
 [ref2]: https://help.github.com/articles/markdown-basics/
 [ref3]: https://help.github.com/articles/github-flavored-markdown/

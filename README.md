@@ -582,7 +582,7 @@ Lorem ipsum
 * [Emoji](#emoji)
 * [Writing on GitHub](#writing-on-github)
 * [Sanitize](#sanitize)
-* [Miscellaneous](#miscellaneous)
+* [Miscellaneous](#miscellaneous-1)
 
 ### Paragraph + List
 

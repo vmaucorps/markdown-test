@@ -9,7 +9,7 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>This is a table cell</td>
     </tr>
 </table>
 

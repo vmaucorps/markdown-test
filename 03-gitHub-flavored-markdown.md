@@ -1,3 +1,8 @@
+principle: Perceptible
+thematic: Présentation de l'information
+standard: AA
+target: Développeurs
+
 # [GitHub Flavored Markdown][ref3]
 
 ## Differences from traditional Markdown

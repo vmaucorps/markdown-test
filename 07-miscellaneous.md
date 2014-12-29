@@ -1,3 +1,8 @@
+principle: Robuste
+thematic: Navigation
+standard: AA
+target: Ergonomes
+
 # Miscellaneous
 
 ## Relative links (TOC)

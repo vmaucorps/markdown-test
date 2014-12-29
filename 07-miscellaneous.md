@@ -3,8 +3,8 @@
 ## Relative links (TOC)
 
 * [Miscellaneous](#miscellaneous)
-* [Relative links][#relative-links-toc]
-* [Paragraph + List][#paragraph--list]
+* [Relative links](#relative-links-toc)
+* [Paragraph + List](#paragraph--list)
 
 ## Paragraph + List
 

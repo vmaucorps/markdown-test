@@ -22,7 +22,7 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing.
 
-Lorem ipsum
+This is a paragraph used as separator between 2 blockquotes
 
 > This is the first level of quoting.
 >
@@ -53,13 +53,13 @@ Lorem ipsum
 +   Green
 +   Blue
 
-Lorem ipsum
+This is a paragraph used as separator between 2 lists
 
 -   Red
 -   Green
 -   Blue
 
-Lorem ipsum
+This is another paragraph used as separator between 2 lists
 
 1.  Bird
 2.  McHale
@@ -156,7 +156,7 @@ Here is an example of AppleScript:
         beep
     end tell
 
-Lorem ipsum
+This is a paragraph used as separator between 2 code blocks
 
     <div class="footer">
         &copy; 2004 Foo Corporation

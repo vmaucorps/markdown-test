@@ -1,3 +1,8 @@
+principle: Robuste
+thematic: Structuration de l'information
+standard: AAA
+target: Développeurs
+
 # Sanitize
 
 ## Available HTML tags

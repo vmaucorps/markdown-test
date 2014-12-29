@@ -1,3 +1,8 @@
+principle: Utilisable
+thematic: Présentation de l'information
+standard: A
+target: Contributeurs
+
 # [GitHub Markdown Basics][ref2]
 
 ## Basic writing

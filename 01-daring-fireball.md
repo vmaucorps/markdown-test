@@ -1,3 +1,8 @@
+principle : Perceptible
+thematic : Présentation de l'information
+standard : A
+target : Contributeurs
+
 [DARING FIREBALL][ref1]
 ====================
 

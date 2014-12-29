@@ -1,3 +1,8 @@
+principle: Utilisable
+thematic: Structuration de l'information
+standard: A
+target: Contributeurs
+
 # [Writing on GitHub][ref4]
 
 ## Markup => [Only available for comments][ref5]

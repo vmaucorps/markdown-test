@@ -1,3 +1,8 @@
+principle: Compréhensible
+thematic: Images
+standard: A
+target: Graphistes
+
 # [Emoji][ref6]
 
 ## People

@@ -36,7 +36,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-Tables
+### Tables
 
 First Header  | Second Header
 ------------- | -------------

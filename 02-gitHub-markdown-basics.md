@@ -29,7 +29,7 @@ In the words of Abraham Lincoln:
 * Item
 * Item
 
-Lorem ipsum
+This is a paragraph used as separator between 2 lists
 
 - Item
 - Item

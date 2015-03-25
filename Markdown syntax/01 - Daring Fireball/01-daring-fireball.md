@@ -262,7 +262,9 @@ Please don't use any `<blink>` tags.
 
 ![Alt text](https://assets-cdn.github.com/favicon.ico)
 
-![Alt text](/assets/github.ico "Optional title")
+![Alt text](/Markdown syntax/01 - Daring Fireball/github.ico "Optional title")
+
+![Alt text](./github.ico "Optional title")
 
 ![Alt text][img]
 

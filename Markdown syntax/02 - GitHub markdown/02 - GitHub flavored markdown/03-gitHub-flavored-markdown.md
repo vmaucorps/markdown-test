@@ -1,7 +1,6 @@
-principle: Perceptible
-thematic: Présentation de l'information
-standard: AA
-target: Développeurs
+Handicap: Visuel
+Principe: Perceptible
+Niveau: AA
 
 # [GitHub Flavored Markdown][ref3]
 

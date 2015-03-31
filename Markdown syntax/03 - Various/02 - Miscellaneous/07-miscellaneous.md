@@ -1,7 +1,7 @@
-principle: Robuste
-thematic: Navigation
-standard: AA
-target: Ergonomes
+Principe: Perceptible
+Thématique: Navigation
+Niveau: A
+Handicap: Auditif
 
 # Miscellaneous
 

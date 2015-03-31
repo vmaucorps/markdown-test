@@ -1,7 +1,7 @@
-principle: Compréhensible
-thematic: Images
-standard: A
-target: Graphistes
+Principe: Robuste
+Thématique: Images
+Niveau: AAA
+Handicap: Cognitif
 
 # [Emoji][ref6]
 

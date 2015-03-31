@@ -1,7 +1,7 @@
-principle: Robuste
-thematic: Structuration de l'information
-standard: AAA
-target: Développeurs
+Principe: Robuste
+Thématique: Liens
+Niveau: AA
+Handicap: Moteur
 
 # Sanitize
 

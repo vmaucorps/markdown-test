@@ -1,7 +1,7 @@
-principle: Utilisable
-thematic: Présentation de l'information
-standard: A
-target: Contributeurs
+Principe: Utilisable
+Thématique: Tableaux
+Niveau: A
+Handicap: Moteur
 
 # [GitHub Markdown Basics][ref2]
 

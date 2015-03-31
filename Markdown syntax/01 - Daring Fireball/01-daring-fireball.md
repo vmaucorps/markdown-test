@@ -1,7 +1,7 @@
-principle: Perceptible
-thematic: Présentation de l'information
-standard: A
-target: Contributeurs
+Principe: Compréhensible
+Handicap: Auditif
+Thématique: Présentation de l'information
+Niveau: AA
 
 [DARING FIREBALL][ref1]
 ====================

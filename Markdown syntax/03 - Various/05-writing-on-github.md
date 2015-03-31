@@ -1,7 +1,7 @@
-principle: Utilisable
-thematic: Structuration de l'information
-standard: A
-target: Contributeurs
+Principe: Utilisable
+Thématique: Formulaires
+Niveau: AAA
+Handicap: Visuel
 
 # [Writing on GitHub][ref4]
 

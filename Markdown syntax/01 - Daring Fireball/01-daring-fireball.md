@@ -49,8 +49,8 @@ Lorem ipsum
 ### LISTS
 
 *   Red
-*   Green
-*   Blue
+ *   Green
+    *   Blue
 
 Lorem ipsum
 
